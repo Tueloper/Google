@@ -1,0 +1,51 @@
+.nav {
+    float: right;
+    /* clear: right'; */
+}
+
+.nav-item {
+    display: inline-block;
+    padding: 1px 10px;
+    font-size: 15px;
+}
+
+.nav-item button {
+    border: none;
+    padding: 10px 8px;
+}
+
+header {
+    margin: 0 20px;
+    /* clear: both; */
+}
+
+main {
+    clear: right;
+    text-align: center;
+    padding-top: 170px;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.orange {
+    color: orangered;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.green {
+    color: green;
+}
+
+.google {
+    font-size: 80px;
+}
+
