@@ -30,7 +30,7 @@ main {
 }
 
 .blue {
-    color: blue;
+    color: rgb(64, 64, 207);
 }
 
 .orange {
@@ -38,14 +38,15 @@ main {
 }
 
 .yellow {
-    color: yellow;
+    color: rgb(255, 166, 0);
 }
 
 .green {
-    color: green;
+    color: rgb(10, 192, 10);
 }
 
 .google {
     font-size: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
